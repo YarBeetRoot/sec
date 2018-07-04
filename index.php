@@ -2,6 +2,6 @@
 <?php 
 
 echo "string";
-echo 'hi! привет';
+echo 'hi! привет!!!';
 
 ?>
